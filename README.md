@@ -1,3 +1,5 @@
+![slurp](./docs/slurp-250.png)
+
 # slurp
 Blackbox/whitebox S3 bucket enumerator
 
@@ -41,3 +43,7 @@ In this mode, you are using the AWS API **with credentials** on a specific accou
 This project uses `vgo`; you can clone and `go build` or download from Releases section. **Please do not open issues on why you cannot build the project**; this project builds like any other project would in Go, if you cannot build then I strongly suggest you read the [go spec](https://golang.org/ref/spec).
 
 Also, the only binaries I'm including are `linux/amd64`; if you want mac/windows binaries, build it yourself.
+
+## Contributors
+- Thanks to @jakewarren and @random-robbie for permutations list(s).
+- Thanks to [Yvonni Fhang](https://www.instagram.com/yvonnifhang/) for the logo.
